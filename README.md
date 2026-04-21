@@ -1,6 +1,7 @@
 # 🌱 Natta
 
-A Natta é uma solução digital para produtores rurais que desejam controlar sua produção de forma simples, rápida e eficiente — diretamente pelo WhatsApp.
+A Natta é uma ideia solução digital para produtores rurais que desejam controlar sua produção de forma simples, rápida e eficiente — diretamente pelo WhatsApp.
+
 A ideia foi baseada no evento Ideathon Campo Inovador – Leite e Derivados, realizado pelo Sebrae Startups, reunindo ideias, conexões e olhares inovadores para os desafios e oportunidades da cadeia leiteira.
 
 
@@ -18,7 +19,7 @@ A Natta resolve isso permitindo que o produtor:
 
 Se o produtor sabe usar o WhatsApp, ele já sabe usar a Natta.
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades (Apenas fictícias)
 
 - 📩 Registro de produção via mensagem
 - 🔔 Alertas automáticos (queda de produção, saúde)
